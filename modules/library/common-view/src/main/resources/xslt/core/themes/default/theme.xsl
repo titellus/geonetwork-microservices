@@ -18,8 +18,9 @@
       <meta name="description" content=""/>
       <meta name="keywords" content=""/>
       <meta name="author" content=""/>
-      <link rel="stylesheet" href="https://unpkg.com/tailwindcss/dist/tailwind.min.css"/>
+
       <!--Replace with your tailwind.css once created-->
+      <script src="https://cdn.tailwindcss.com"></script>
       <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700"
             rel="stylesheet"/>
       <style>
